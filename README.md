@@ -71,9 +71,6 @@ Atualmente, direciono meus estudos para **Inteligência Artificial**, com o obje
 - **Copilot Instructions** — padrões e convenções para orientar o GitHub Copilot e manter consistência de estilo, estrutura e qualidade.  
   Repo: [ThiagoGuislotti/copilot-instructions](https://github.com/ThiagoGuislotti/copilot-instructions)
 
-- **NetToolsKit CLI** — CLI de automação e scaffolding com visão **multi-linguagem** (iniciando pelo ecossistema **.NET**) para padronizar fluxos e reduzir tarefas repetitivas.  
-  Repo: [ThiagoGuislotti/nettoolskit-cli](https://github.com/ThiagoGuislotti/nettoolskit-cli)
-
 - **NetToolsKit**: toolkit modular para **padronização** e **produtividade** no ecossistema **.NET**, reunindo componentes reutilizáveis para acelerar a construção de aplicações e serviços com consistência e menos *boilerplate*. Inclui:
   - **Mensageria e integração** (estilo **MassTransit**) para cenários *event-driven* com *brokers* como **RabbitMQ**, facilitando publicação/consumo e padrões recorrentes.
   - **Mediator/handlers** (estilo **MediatR**) para organizar *commands/queries/notifications* e reduzir acoplamento entre componentes.
@@ -83,11 +80,6 @@ Atualmente, direciono meus estudos para **Inteligência Artificial**, com o obje
   - **Módulos transversais**: extensões, serialização, REST client, OpenAPI/Swagger, observabilidade e outros auxiliares para consistência entre projetos.
 
 ---
-
-## 📈 Estatísticas no GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuislotti&layout=compact&langs_count=10&theme=radical)](#)
-
 
 ## 🛠️ Stack Tecnológica
 
