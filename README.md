@@ -3,27 +3,21 @@
 <!-- GitHub Dark: 24292F -->
 <!-- Neutral: 6E7681 -->
 
-<div align="left">
-
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm53czc4czBoZTVqMnR4bzRodjk1ZGUzbmZoY2g5ZmtzN2N2MTllaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="210px"/>
 
+<div>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=9745F5&width=520&height=40&lines=Hi%2C+I'm+Thiago!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=9745F5&width=520&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/>
 </a>
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=600&color=9745F5&width=650&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems+Engineer+%7C+AI-Assisted+Engineering" alt="Typing SVG" />
 </a>
-
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=9745F5&width=520&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=9745F5&width=520&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/>
 </a>
-
-    📍 Curitiba, Paraná, Brazil | Remote
-    
 </div>
 
-<br clear="left"/>
+    📍 Curitiba, Paraná, Brazil | Remote
 
 ---
 
