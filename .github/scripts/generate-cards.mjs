@@ -1,9 +1,9 @@
 // Importa os fetchers do github-readme-stats clonado em /tmp/grs pelo workflow.
 // O token PAT_1 é lido automaticamente pelo retryer interno a partir do env.
-import { fetchStats } from '/tmp/grs/src/fetchers/stats-fetcher.js';
-import { renderStatsCard } from '/tmp/grs/src/cards/stats-card.js';
-import { fetchTopLanguages } from '/tmp/grs/src/fetchers/top-langs-fetcher.js';
-import { renderTopLanguages } from '/tmp/grs/src/cards/top-languages-card.js';
+import { fetchStats } from '/tmp/grs/src/fetchers/stats.js';
+import { renderStatsCard } from '/tmp/grs/src/cards/stats.js';
+import { fetchTopLanguages } from '/tmp/grs/src/fetchers/top-languages.js';
+import { renderTopLanguages } from '/tmp/grs/src/cards/top-languages.js';
 import { writeFileSync, mkdirSync } from 'fs';
 
 const username = 'ThiagoGuislotti';
@@ -12,12 +12,15 @@ const username = 'ThiagoGuislotti';
 mkdirSync('dist', { recursive: true });
 
 // --- Stats card ---
-// count_private: inclui contribuições em repositórios privados
-// include_all_commits: conta todos os commits do histórico, não só o ano atual
-const stats = await fetchStats(username, {
-  count_private: true,
-  include_all_commits: true,
-});
+// fetchStats(username, include_all_commits, exclude_repo, include_merged_pull_requests, ...)
+// O token no env (PAT_1) garante que contribuições privadas sejam incluídas automaticamente.
+// include_merged_pull_requests = true é necessário para popular totalPRsMerged e mergedPRsPercentage.
+const stats = await fetchStats(
+  username,
+  true,   // include_all_commits — conta todos os commits do histórico
+  [],     // exclude_repo — nenhum repositório excluído
+  true,   // include_merged_pull_requests — habilita dados de PRs merged
+);
 
 writeFileSync(
   'dist/github-stats.svg',

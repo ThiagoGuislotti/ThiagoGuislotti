@@ -21,14 +21,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Clone github-readme-stats
         run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/grs
 
       - name: Install dependencies
         working-directory: /tmp/grs
-        run: npm install --silent
+        run: npm install --omit=dev --ignore-scripts --silent
 
       - name: Generate cards
         env:
