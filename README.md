@@ -3,21 +3,13 @@
 <!-- GitHub Dark: 24292F -->
 <!-- Neutral: 6E7681 -->
 
-<a href="#">
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWttYzF0aDQzNWNyMThqNjhkOG1yN2NxeWMwYjMycHIwMnljcjAxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/QeYqhCNtcMaJGT1b2A/giphy.gif" width="200px"/>
-</a>
+<a href="#"><img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWttYzF0aDQzNWNyMThqNjhkOG1yN2NxeWMwYjMycHIwMnljcjAxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/QeYqhCNtcMaJGT1b2A/giphy.gif" width="200px"/></a>
 
 <div style="margin-left: 1000;">
 
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&width=435&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/>
-</a>
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9745F5&width=435&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems+Engineer+%7C+AI-Assisted+Engineering" alt="Typing SVG" />
-</a>
-<a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=9745F5&width=435&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/>
-</a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&width=435&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9745F5&width=435&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems+Engineer+%7C+AI-Assisted+Engineering" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=9745F5&width=435&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/></a>
 
     📍 Curitiba, Paraná, Brazil | Remote
     
@@ -136,23 +128,10 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 
 [![Activity Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=9745F5&center=true&vCenter=true&width=900&lines=Building+systems...;Shipping+backend+architecture...;Improving+developer+workflows...;Tracking+engineering+activity...)](#)
 
-<br>
+<a href="#"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoGuislotti&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/></a>
+<a href="#"><img width="45%" src="https://streak-stats.demolab.com?user=ThiagoGuislotti&theme=midnight-purple&hide_border=true"/></a>
 
-<a href="#">
-<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoGuislotti&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="#">
-<img width="45%" src="https://streak-stats.demolab.com?user=ThiagoGuislotti&theme=midnight-purple&hide_border=true"/>
-</a>
-
-<br>
-
-<a href="#">
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/>
-</a>
-
-<br>
+<a href="#"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/></a>
 
 <a href="#"><img src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/></a>
 
@@ -162,8 +141,6 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 
 <div align="center">
   
-<a href="#">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JtOGNzcXBvejRybHBvMWxqYzhnZ3B0N2xzM2pxcDNqczdqZTAzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="210px">
-</a>
+<a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JtOGNzcXBvejRybHBvMWxqYzhnZ3B0N2xzM2pxcDNqczdqZTAzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="210px"></a>
 
 </div>
