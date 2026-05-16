@@ -25,7 +25,7 @@ const stats = await fetchStats(
 writeFileSync(
   'dist/github-stats.svg',
   renderStatsCard(stats, {
-    theme: 'midnight_purple',
+    theme: 'midnight-purple',
     hide_border: true,
     show_icons: true,
     include_all_commits: true,
@@ -43,7 +43,7 @@ const langs = await fetchTopLanguages(username, []);
 writeFileSync(
   'dist/github-langs.svg',
   renderTopLanguages(langs, {
-    theme: 'midnight_purple',
+    theme: 'midnight-purple',
     hide_border: true,
     layout: 'compact', // layout compacto ocupa menos altura
     langs_count: 8,    // exibe até 8 linguagens
