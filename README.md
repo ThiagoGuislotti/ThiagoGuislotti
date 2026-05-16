@@ -3,7 +3,9 @@
 <!-- GitHub Dark: 24292F -->
 <!-- Neutral: 6E7681 -->
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm5sNXRkNDFzY3NhenE2aTV5N2dmdjYwc3E1anFna2FqeHBmYWVvayZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/RMR2YEaUQetgZCMbIu/giphy.gif" width="210px">
+<div align="left">
+
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm53czc4czBoZTVqMnR4bzRodjk1ZGUzbmZoY2g5ZmtzN2N2MTllaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="210px"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=9745F5&width=520&height=40&lines=Hi%2C+I'm+Thiago!" />
@@ -18,6 +20,10 @@
 </a>
 
     📍 Curitiba, Paraná, Brazil | Remote
+    
+</div>
+
+<br clear="left"/>
 
 ---
 
