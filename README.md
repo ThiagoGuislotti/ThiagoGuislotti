@@ -1,44 +1,75 @@
-# 👋 Olá, sou o Thiago!
+<!-- Colors -->
+<!-- Primary: 9745F5 -->
+<!-- GitHub Dark: 24292F -->
+<!-- Neutral: 6E7681 -->
 
-🎯 **Desenvolvedor .NET Sênior** | **Arquiteto de Software**  
-🌍 **Curitiba, Paraná, Brasil** | **Remoto / Híbrido**  
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm5sNXRkNDFzY3NhenE2aTV5N2dmdjYwc3E1anFna2FqeHBmYWVvayZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/RMR2YEaUQetgZCMbIu/giphy.gif" width="210px">
 
-🎓 **Formação acadêmica:**
-- **PUCPR — Tecnólogo em Inteligência Artificial Aplicada** (jul/2021–dez/2023) *(Trancado)*
-- **Estácio — Ciência da Computação** (jan/2018–jan/2020) *(Trancado)*
-- **PUCPR — Técnico em Mecatrônica** (jan/2012–dez/2013)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=9745F5&width=520&height=40&lines=Hi%2C+I'm+Thiago!" />
+</a>
 
-🌐 **Contato:**
-- 💼 **LinkedIn:** [thiago-guislotti](https://www.linkedin.com/in/thiago-guislotti/)  
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=600&color=9745F5&width=650&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems+Engineer+%7C+AI-Assisted+Engineering" alt="Typing SVG" />
+</a>
 
----
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=9745F5&width=520&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" />
+</a>
 
-## 💡 Sobre Mim
-
-Sou **desenvolvedor back-end .NET sênior** apaixonado por resolver problemas complexos através da tecnologia. 
-
-Especializo-me em **design de sistemas escaláveis**, **arquitetura de back-end** e **mentoria técnica**, promovendo boas práticas de desenvolvimento para entregar soluções consistentes.
-
-Atualmente, direciono meus estudos para **Inteligência Artificial**, com o objetivo de criar soluções que apoiem **pessoas no espectro autista (TEA)** e promovam mais integração e qualidade de vida.
+    📍 Curitiba, Paraná, Brazil | Remote
 
 ---
 
-## 🏗️ Arquitetura & Engenharia
-
-* **Arquitetura:** Microserviços, Clean Architecture, DDD, Hexagonal, CQRS e Event-Driven.
-* **Integração:** REST/GraphQL, Kafka/RabbitMQ, Event Sourcing, Saga, API Gateway/Service Mesh.
-* **DevOps:** CI/CD, IaC, Docker/Kubernetes, code review e qualidade contínua.
-* **Observabilidade:** OpenTelemetry, métricas/logs (Prometheus, Grafana, Seq), health checks, circuit breakers e performance monitoring.
-* **Testes:** Unitários, integração, contrato, end-to-end, TDD/BDD, mocks/fakes e testes de carga.
-* **Segurança:** OAuth2/OpenID Connect, JWT, API Keys, criptografia, OWASP e pentests.
-* **Cloud:** Azure (App Services, Functions, AKS, Cosmos DB, SQL DB, Storage).
+<img src="https://api.iconify.design/lucide:mail.svg?color=%239745F5" width="20"/> **Contact:**
+-  **[LinkedIn Thiago Guislotti](https://www.linkedin.com/in/thiago-guislotti/)**
 
 <br>
 
+<img src="https://api.iconify.design/lucide:flask-conical.svg?color=%239745F5" width="20"/> **Research & Education:**
+- **PUCPR — Applied Artificial Intelligence Technology Degree** *(2021–2023 — paused)*
+- **Estácio — Computer Science** *(2018–2020 — paused)*
+- **PUCPR — Mechatronics Technician Program** *(2012–2013)*
+- **Harvard CS50 Series:**
+  - CS50’s Introduction to Computer Science
+  - CS50’s Introduction to Artificial Intelligence with Python
+  - CS50’s Introduction to Programming with Python
+  - CS50’s Introduction to Programming with R
+  - CS50’s Introduction to Databases with SQL
+
+---
+
+## <img src="https://api.iconify.design/lucide:user.svg?color=%239745F5" width="25"/> About
+
+Software Architect and Backend Engineer focused on .NET, distributed systems and mission-critical software.
+
+Currently working on financial and payment middleware platforms using microservices, messaging, CQRS/Event Sourcing and end-to-end observability.
+
+Strong focus on reliability, scalability, operational stability and long-term maintainability, with hands-on experience designing distributed architectures and evolving high-availability systems.
+
+More recently, part of my work has been dedicated to AI-assisted engineering workflows, developer productivity and knowledge-driven systems, including projects focused on helping neurodivergent people better organize routines, context and daily workflows through technology.
+
+---
+
+## <img src="https://api.iconify.design/lucide:network.svg?color=%239745F5" width="25"/> Architecture & Engineering
+
+- **<img src="https://api.iconify.design/lucide:blocks.svg?color=%239745F5" width="15"/> Architecture & Distributed Systems:** Microservices, Clean Architecture, DDD, Hexagonal, CQRS and Event-Driven.
+- **<img src="https://api.iconify.design/lucide:radio-tower.svg?color=%239745F5" width="15"/> Integration & Messaging:** REST/GraphQL, Kafka/RabbitMQ, Event Sourcing, Saga, API Gateway/Service Mesh.
+- **<img src="https://api.iconify.design/lucide:cog.svg?color=%239745F5" width="15"/> DevOps & Platform Engineering:** CI/CD, IaC, Docker/Kubernetes, code reviews and continuous quality.
+- **<img src="https://api.iconify.design/lucide:activity.svg?color=%239745F5" width="15"/> Observability & Reliability:** OpenTelemetry, metrics/logs (Prometheus, Grafana, Seq), health checks and performance monitoring.
+- **<img src="https://api.iconify.design/lucide:test-tube.svg?color=%239745F5" width="15"/> Testing & Quality Engineering:** Unit, integration, contract, end-to-end and load testing.
+- **<img src="https://api.iconify.design/lucide:shield.svg?color=%239745F5" width="15"/> Security & Authentication:** OAuth2/OpenID Connect, JWT, API Keys, OWASP and cryptography.
+- **<img src="https://api.iconify.design/lucide:cloud.svg?color=%239745F5" width="15"/> Cloud & Infrastructure:** Azure (App Services, Functions, AKS, SQL DB, Storage).
+- **<img src="https://api.iconify.design/lucide:bot.svg?color=%239745F5" width="15"/> AI-Assisted Engineering:** RAG, prompt engineering, developer tooling, code generation workflows and AI-assisted productivity systems.
+
+<br>
+
+<div align="center">
+
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white&style=flat-square)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-412991?logo=dotnet&logoColor=white&style=flat-square)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-412991?logo=dotnet&logoColor=white&style=flat-square)](https://learn.microsoft.com/dotnet/csharp/)
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](https://www.rust-lang.org/)
 [![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=white&style=flat-square)](https://clojure.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
@@ -64,25 +95,59 @@ Atualmente, direciono meus estudos para **Inteligência Artificial**, com o obje
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)](https://unity.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square)](https://www.unrealengine.com/)
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)](https://openai.com/)
+[![Codex](https://img.shields.io/badge/Codex-181717?logo=openai&logoColor=white&style=flat-square)](https://chat.openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square)](https://claude.ai/)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&logoColor=white&style=flat-square)](https://github.com/features/copilot)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square)](https://ollama.com/)
+[![Vector Database](https://img.shields.io/badge/Vector%20DB-412991?style=flat-square&logoColor=white)]()
+[![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white)]()
+[![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat-square&logoColor=white)]()
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logoColor=white)]()
+
+<br><br>
+
+![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,ts,js,vue,postgres,mongodb,redis,rabbitmq,docker,kubernetes,linux,git,github,azure,nginx,grafana,prometheus,vscode,visualstudio,unity,unreal&perline=11)
+
+</div>
+
 ---
 
-## 🚀 Projetos em Destaque
+## <img src="https://api.iconify.design/lucide:blocks.svg?color=%239745F5" width="25"/> Featured Projects
 
-- **Copilot Instructions** — padrões e convenções para orientar o GitHub Copilot e manter consistência de estilo, estrutura e qualidade.  
+- **Copilot Instructions** — standards and conventions designed to guide GitHub Copilot usage while maintaining consistency in style, structure and code quality.  
   Repo: [ThiagoGuislotti/copilot-instructions](https://github.com/ThiagoGuislotti/copilot-instructions)
 
-- **NetToolsKit**: toolkit modular para **padronização** e **produtividade** no ecossistema **.NET**, reunindo componentes reutilizáveis para acelerar a construção de aplicações e serviços com consistência e menos *boilerplate*. Inclui:
-  - **Mensageria e integração** (estilo **MassTransit**) para cenários *event-driven* com *brokers* como **RabbitMQ**, facilitando publicação/consumo e padrões recorrentes.
-  - **Mediator/handlers** (estilo **MediatR**) para organizar *commands/queries/notifications* e reduzir acoplamento entre componentes.
-  - **DynamicQuery** para **filtros, ordenação e paginação** dinâmicos via parâmetros, reduzindo duplicação em listagens e mantendo flexibilidade.
-  - **EF Core**: utilitários e extensões para padronizar o uso e apoiar cenários de consulta (especialmente em conjunto com o DynamicQuery).
-  - **Autenticação e segurança**: **JWT** e **API Key**, além de **abstrações + providers** para segredos/criptografia (local e integrações cloud) sem *lock-in*.
-  - **Módulos transversais**: extensões, serialização, REST client, OpenAPI/Swagger, observabilidade e outros auxiliares para consistência entre projetos.
+- **NetToolsKit**: a modular toolkit focused on **standardization** and **productivity** within the **.NET** ecosystem, bringing together reusable components to accelerate application and service development with consistency and reduced *boilerplate*. Includes:
+  - **Messaging and integration** (**MassTransit-style**) for *event-driven* scenarios using brokers such as **RabbitMQ**, simplifying publishing/consuming patterns and recurring integration flows.
+  - **Mediator/handlers** (**MediatR-style**) to organize *commands/queries/notifications* and reduce coupling between components.
+  - **DynamicQuery** for dynamic **filtering, sorting and pagination** through parameters, reducing duplication in listing/query scenarios while preserving flexibility.
+  - **EF Core** utilities and extensions to standardize usage patterns and support advanced querying scenarios (especially alongside DynamicQuery).
+  - **Authentication & Security**: **JWT** and **API Key** support, along with **abstractions + providers** for secrets management and cryptography (local and cloud integrations) without *vendor lock-in*.
+  - **Cross-cutting modules**: extensions, serialization, REST client, OpenAPI/Swagger, observability and additional helpers to improve consistency across projects.
 
 ---
 
-## 🛠️ Stack Tecnológica
+<div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=dotnet,cs,clojure,ts,js,vue,postgres,mongodb,redis,rabbitmq,docker,kubernetes,linux,git,github,azure,nginx,grafana,prometheus,vscode,visualstudio,unity,unreal&perline=13)
+[![Activity Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=9745F5&center=true&vCenter=true&width=900&lines=Building+systems...;Shipping+backend+architecture...;Improving+developer+workflows...;Tracking+engineering+activity...)](https://git.io/typing-svg)
+
+<br>
+
+<img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoGuislotti&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="45%" src="https://streak-stats.demolab.com?user=ThiagoGuislotti&theme=midnight-purple&hide_border=true"/>
+
+<br><br>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/>
+
+</div>
 
 ---
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JtOGNzcXBvejRybHBvMWxqYzhnZ3B0N2xzM2pxcDNqczdqZTAzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="210px">
+
+</div>
