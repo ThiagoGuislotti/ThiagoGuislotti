@@ -143,6 +143,10 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/>
 
+<br><br>
+
+![snake gif](https://github.com/ThiagoGuislotti/ThiagoGuislotti/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
