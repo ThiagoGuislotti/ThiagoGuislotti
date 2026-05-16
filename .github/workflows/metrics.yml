@@ -26,6 +26,7 @@ jobs:
           config_display: large
           filename: github-metrics-overview.svg
           committer_branch: metrics
+          committer_branch_autoinit: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages (includes private repos)
@@ -41,6 +42,7 @@ jobs:
           config_timezone: America/Sao_Paulo
           filename: github-metrics-languages.svg
           committer_branch: metrics
+          committer_branch_autoinit: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate coding habits (includes private activity)
@@ -56,4 +58,5 @@ jobs:
           config_timezone: America/Sao_Paulo
           filename: github-metrics-habits.svg
           committer_branch: metrics
+          committer_branch_autoinit: yes
           committer_token: ${{ secrets.GITHUB_TOKEN }}
