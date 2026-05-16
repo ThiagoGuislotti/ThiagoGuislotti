@@ -1,0 +1,44 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Clone github-readme-stats
+        run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git /tmp/grs
+
+      - name: Install dependencies
+        working-directory: /tmp/grs
+        run: npm install --silent
+
+      - name: Generate cards
+        env:
+          PAT_1: ${{ secrets.METRICS_TOKEN }}
+        run: node $GITHUB_WORKSPACE/.github/scripts/generate-cards.mjs
+
+      - name: Push to stats branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
