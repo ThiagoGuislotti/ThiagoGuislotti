@@ -128,10 +128,11 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=9745F5&center=true&vCenter=true&width=900&lines=Building+systems...;Shipping+backend+architecture...;Improving+developer+workflows...;Tracking+engineering+activity..." alt="Activity Header"/></a>
 
-<a href="#"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThiagoGuislotti&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"/></a>
+<a href="#"><img width="45%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/metrics/github-metrics-overview.svg"/></a>
 <a href="#"><img width="45%" src="https://streak-stats.demolab.com?user=ThiagoGuislotti&theme=midnight-purple&hide_border=true"/></a>
 
-<a href="#"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/></a>
+<a href="#"><img width="45%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/metrics/github-metrics-languages.svg"/></a>
+<a href="#"><img width="45%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/metrics/github-metrics-habits.svg"/></a>
 
 <a href="#"><img src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/></a>
 
