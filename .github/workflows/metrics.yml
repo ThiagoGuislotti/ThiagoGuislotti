@@ -21,6 +21,8 @@ jobs:
       - name: Create metrics branch if it does not exist
         run: |
           if ! git ls-remote --exit-code --heads origin metrics; then
+            git config user.email "actions@github.com"
+            git config user.name "github-actions"
             git checkout --orphan metrics
             git rm -rf . --quiet
             git commit --allow-empty -m "chore: initialize metrics branch"
