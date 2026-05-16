@@ -3,9 +3,9 @@
 <!-- GitHub Dark: 24292F -->
 <!-- Neutral: 6E7681 -->
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm53czc4czBoZTVqMnR4bzRodjk1ZGUzbmZoY2g5ZmtzN2N2MTllaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="200px"/>
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWttYzF0aDQzNWNyMThqNjhkOG1yN2NxeWMwYjMycHIwMnljcjAxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/QeYqhCNtcMaJGT1b2A/giphy.gif" width="200px"/>
 
-<div>
+<div style="margin-left: 1000;">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&width=435&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/>
 </a>
@@ -15,9 +15,10 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=9745F5&width=435&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/>
 </a>
-</div>
 
     📍 Curitiba, Paraná, Brazil | Remote
+    
+</div>
 
 ---
 
