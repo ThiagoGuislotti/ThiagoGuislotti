@@ -31,7 +31,7 @@
 - **PUCPR — Applied Artificial Intelligence Technology Degree** *(2021–2023 — paused)*
 - **Estácio — Computer Science** *(2018–2020 — paused)*
 - **PUCPR — Mechatronics Technician Program** *(2012–2013)*
-- **Harvard CS50 Series:**
+- **Harvard — CS50 Series:**
   - CS50’s Introduction to Computer Science
   - CS50’s Introduction to Artificial Intelligence with Python
   - CS50’s Introduction to Programming with Python
