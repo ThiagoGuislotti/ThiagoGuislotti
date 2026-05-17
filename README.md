@@ -56,7 +56,7 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 - **<a href="#"><img src="https://api.iconify.design/lucide:test-tube.svg?color=%239745F5" width="15"/></a> Testing & Quality Engineering:** Unit, integration, contract, end-to-end and load testing.
 - **<a href="#"><img src="https://api.iconify.design/lucide:shield.svg?color=%239745F5" width="15"/></a> Security & Authentication:** OAuth2/OpenID Connect, JWT, API Keys, OWASP and cryptography.
 - **<a href="#"><img src="https://api.iconify.design/lucide:cloud.svg?color=%239745F5" width="15"/></a> Cloud & Infrastructure:** Azure (App Services, Functions, AKS, SQL DB, Storage).
-- **<a href="#"><img src="https://api.iconify.design/lucide:bot.svg?color=%239745F5" width="15"/></a> AI-Assisted Engineering:** RAG, prompt engineering, developer tooling, code generation workflows and AI-assisted productivity systems.
+- **<a href="#"><img src="https://api.iconify.design/lucide:bot.svg?color=%239745F5" width="15"/></a> AI-Assisted Engineering:** RAG, CAG, HyDE, prompt engineering, embeddings, vector search, developer tooling, code generation workflows and AI-assisted productivity systems.
 
 <br>
 
