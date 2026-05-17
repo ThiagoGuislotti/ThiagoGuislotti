@@ -24,15 +24,15 @@
 <br>
 
 <a href="#"><img src="https://api.iconify.design/lucide:flask-conical.svg?color=%239745F5" width="20"/></a> **Research & Education:**
-- **PUCPR — Applied Artificial Intelligence Technology Degree** *(2021–2023 — paused)*
-- **Estácio — Computer Science** *(2018–2020 — paused)*
-- **PUCPR — Mechatronics Technician Program** *(2012–2013)*
-- **Harvard — CS50 Series:**
+- **Harvard — CS50 Series** *(2026)*
   - [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/certificates/5369e521-1c1b-4617-8413-459e84da1c46)
   - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/certificates/43404152-86d8-4efd-9b78-53442e7c7e3d)
   - [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/certificates/9fcccaf9-cc57-4b90-a97f-d23ebe050bd0)
   - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/certificates/0557b822-46d6-429c-942b-92b9ed40e8da)
   - [CS50’s Introduction to Programming with R](https://cs50.harvard.edu/certificates/b58a273a-3b57-4d30-bf0c-3a68019132ed)
+- **PUCPR — Applied Artificial Intelligence Technology Degree** *(2021–2023 — paused)*
+- **Estácio — Computer Science** *(2018–2020 — paused)*
+- **PUCPR — Mechatronics Technician Program** *(2012–2013)*
 
 ---
 
