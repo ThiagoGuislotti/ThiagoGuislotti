@@ -7,9 +7,9 @@
 
 <div style="margin-left: 1000;">
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&width=435&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/></a>
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9745F5&width=435&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems+Engineer+%7C+AI-Assisted+Engineering" alt="Typing SVG" /></a>
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=9745F5&width=435&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&width=600&height=40&lines=Hi%2C+I'm+Thiago!" alt="Typing SVG"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9745F5&width=600&height=30&lines=Senior+Backend+Engineer+%7C+Software+Architect;Distributed+Systems++%7C+AI-Assisted+Engineering" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=9745F5&width=600&height=24&lines=.NET+%7C+Microservices+%7C+Distributed+Systems;CQRS+%7C+Event+Sourcing+%7C+Messaging;Cloud+%7C+Observability+%7C+DevOps" alt="Typing SVG"/></a>
 
     📍 Curitiba, Paraná, Brazil | Remote
     
@@ -37,7 +37,7 @@
 
 ## <a href="#"><img src="https://api.iconify.design/lucide:user.svg?color=%239745F5" width="25"/></a> About
 
-Software Architect and Backend Engineer focused on .NET, distributed systems and mission-critical software.
+Software Architect focused on .NET, distributed systems, payment systems and AI-assisted engineering workflows.
 
 Currently working on financial and payment middleware platforms using microservices, messaging, CQRS/Event Sourcing and end-to-end observability.
 
@@ -100,6 +100,8 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 [![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white)](#)
 [![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat-square&logoColor=white)](#)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logoColor=white)](#)
+[![Knowledge Systems](https://img.shields.io/badge/Knowledge%20Systems-9745F5?style=flat-square&logoColor=white)](#)
+[![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-9745F5?style=flat-square&logoColor=white)](#)
 
 <br><br>
 
