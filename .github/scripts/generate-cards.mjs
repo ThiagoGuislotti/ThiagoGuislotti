@@ -29,10 +29,6 @@ let statsSvg = renderStatsCard(stats, {
   card_width: 495,
 });
 
-// Normaliza labels para o mesmo formato do card original
-statsSvg = statsSvg.replace('Total Stars Earned:', 'Total Stars:');
-statsSvg = statsSvg.replace('Contributed to (last year):', 'Contributed to:');
-
 writeFileSync('dist/github-stats.svg', statsSvg);
 
 console.log('Stats card generated');
