@@ -1,5 +1,6 @@
 <!-- Colors -->
 <!-- Primary: 9745F5 -->
+<!-- Alternative: 412991 -->
 <!-- GitHub Dark: 24292F -->
 <!-- Neutral: 6E7681 -->
 
@@ -67,7 +68,6 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 [![.NET](https://img.shields.io/badge/.NET-412991?logo=dotnet&logoColor=white&style=flat-square)](#)
 [![C#](https://img.shields.io/badge/C%23-412991?logo=dotnet&logoColor=white&style=flat-square)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)](#)
-[![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=white&style=flat-square)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](#)
 [![Vue](https://img.shields.io/badge/Vue-42b883?logo=vue.js&logoColor=white&style=flat-square)](#)
