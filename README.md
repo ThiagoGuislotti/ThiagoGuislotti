@@ -91,17 +91,20 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)](#)
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square)](#)
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square)](#)
-[![Codex](https://img.shields.io/badge/Codex-181717?logo=openai&logoColor=white&style=flat-square)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white&style=flat-square)](#)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&logoColor=white&style=flat-square)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square)](#)
-[![Vector Database](https://img.shields.io/badge/Vector%20DB-412991?style=flat-square&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Codex](https://custom-icon-badges.demolab.com/badge/Codex-181717?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)](#)
+[![Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?logo=githubcopilot&logoColor=white&style=flat-square)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](#)
+
+[![Vector DB](https://img.shields.io/badge/Vector%20DB-412991?style=flat-square&logoColor=white)](#)
 [![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white)](#)
+[![CAG](https://img.shields.io/badge/CAG-412991?style=flat-square&logoColor=white)](#)
+[![HyDE](https://img.shields.io/badge/HyDE-412991?style=flat-square&logoColor=white)](#)
 [![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=flat-square&logoColor=white)](#)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square&logoColor=white)](#)
-[![Knowledge Systems](https://img.shields.io/badge/Knowledge%20Systems-9745F5?style=flat-square&logoColor=white)](#)
-[![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-9745F5?style=flat-square&logoColor=white)](#)
+[![Knowledge Systems](https://img.shields.io/badge/Knowledge%20Systems-412991?style=flat-square&logoColor=white)](#)
 
 <br><br>
 
