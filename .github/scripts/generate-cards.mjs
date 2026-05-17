@@ -21,15 +21,19 @@ const stats = await fetchStats(
   [],     // exclude_repo — nenhum repositório excluído
 );
 
-writeFileSync(
-  'dist/github-stats.svg',
-  renderStatsCard(stats, {
-    theme: 'midnight-purple',
-    hide_border: true,
-    show_icons: true,
-    include_all_commits: true,
-  }),
-);
+let statsSvg = renderStatsCard(stats, {
+  theme: 'midnight-purple',
+  hide_border: true,
+  show_icons: true,
+  include_all_commits: true,
+  card_width: 495,
+});
+
+// Normaliza labels para o mesmo formato do card original
+statsSvg = statsSvg.replace('Total Stars Earned:', 'Total Stars:');
+statsSvg = statsSvg.replace('Contributed to (last year):', 'Contributed to:');
+
+writeFileSync('dist/github-stats.svg', statsSvg);
 
 console.log('Stats card generated');
 
