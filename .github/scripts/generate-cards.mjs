@@ -19,7 +19,6 @@ const stats = await fetchStats(
   username,
   true,   // include_all_commits — conta todos os commits do histórico
   [],     // exclude_repo — nenhum repositório excluído
-  true,   // include_merged_pull_requests — habilita dados de PRs merged
 );
 
 writeFileSync(
@@ -29,8 +28,6 @@ writeFileSync(
     hide_border: true,
     show_icons: true,
     include_all_commits: true,
-    // Exibe métricas extras: revisões, PRs merged e percentual de PRs merged
-    show: ['reviews', 'prs_merged', 'prs_merged_percentage'],
   }),
 );
 
