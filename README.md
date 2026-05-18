@@ -139,6 +139,8 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 <a href="#"><img width="30.5%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/stats/github-langs.svg"/></a>
 <a href="#"><img width="67.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/></a>
 
+<a href="#"><img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoGuislotti&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=412991&point=412991&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" /></a>
+
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/></a>
 
 </div>
