@@ -133,15 +133,15 @@ More recently, part of my work has been dedicated to AI-assisted engineering wor
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=600&color=9745F5&center=true&vCenter=true&width=900&lines=Building+systems...;Shipping+backend+architecture...;Improving+developer+workflows...;Tracking+engineering+activity..." alt="Activity Header"/></a>
 
-<a href="#"><img width="49%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/stats/github-stats.svg"/></a>
-<a href="#"><img width="49%" src="https://streak-stats.demolab.com?user=ThiagoGuislotti&theme=midnight-purple&hide_border=true"/></a>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/github-overview-mobile.svg" />
+  <img src="./assets/github-overview.svg" width="100%" alt="Engineering activity and most used languages by code size" />
+</picture>
 
-<a href="#"><img width="30.5%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/stats/github-langs.svg"/></a>
-<a href="#"><img width="67.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoGuislotti&theme=midnight_purple"/></a>
-
-<a href="#"><img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoGuislotti&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=412991&point=412991&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" /></a>
-
-<a href="#"><img width="100%" src="https://raw.githubusercontent.com/ThiagoGuislotti/ThiagoGuislotti/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/></a>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/github-activity-mobile.svg" />
+  <img src="./assets/github-activity.svg" width="100%" alt="GitHub contribution calendar with integrated snake animation, current and longest streaks, active days and weekly contributions" />
+</picture>
 
 </div>
 
